@@ -1,14 +1,13 @@
-<<<<<<< HEAD
 # Research
 
 #### Description
 1 团队科研仓库
-=======
+
 # Gitbook
 
 #### Description
 存放《ROS操作指南》Gitbook资料的仓库
->>>>>>> 论文十问测试PDF链接
+
 
 #### Software Architecture
 Software architecture description
