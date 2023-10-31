@@ -4,14 +4,6 @@
 
 ### 1  Clash 科学上网
 
-方法1：Youtube教程
-
-参考链接：链接：https://pan.baidu.com/s/1SUsBxXlC26EPVVr3AXwo3Q?pwd=6666 提取码：6666 
-
-
-
-方法2：直接安装
-
 Step 1:
 
 打开终端，输入以下命令下载Clash
@@ -21,8 +13,6 @@ wget https://github.com/Dreamacro/clash/releases/download/v1.18.0/clash-linux-am
 ```
 
 或者直接官网下载：https://github.com/Dreamacro/clash/releases 选择`clash-linux-amd64-v1.18.0.gz`
-
-或者从网盘下载：https://pan.baidu.com/s/1ChjKeaR7GlMxUCviqML2ig?pwd=6666 提取码：6666 
 
 
 Step 2：
@@ -34,15 +24,13 @@ gunzip clash-linux-amd64-v1.17.0.gz
 ```
 
 
-
-Step 3：
+Step 3(Optional)：
 
 使用以下命令将解压后的文件移动到 `/usr/local/bin` 目录，并重命名为 `clash`：
 
 ```bash
 sudo mv clash-linux-amd64-v1.17.0 /usr/local/bin/clash
 ```
-
 
 
 Step 4：
@@ -54,17 +42,15 @@ sudo chmod +x /usr/local/bin/clash
 ```
 
 
-
 Step 5：
 
-创建 clash 目录(可选)
+创建 clash 目录
 
 查看 ~/.config 是否有 clash 目录，如果有则跳过此步；如果没有，使用以下命令创建 Clash 的配置文件目录：
 
 ```bash
 mkdir -p ~/.config/clash
 ```
-
 
 
 Step 6：
@@ -94,9 +80,6 @@ Can't find MMDB, start download
 ```
 
 
-
-
-
 Step 8：
 
 配置 Ubuntu 网络代理，见下图
@@ -124,6 +107,5 @@ Step 10：
 
 ### 2 Ubuntu常用软件
 
-链接：https://pan.baidu.com/s/1bg9dBIWEGB5zFCZbhHdNlQ?pwd=6666 
-提取码：6666 
---来自百度网盘超级会员V4的分享
+网盘链接：https://pan.baidu.com/s/1_yxKtlf5TeOJTOj0HtMbJQ?
+

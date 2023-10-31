@@ -4,4 +4,5 @@
 ### 1 深度学习
 
 推荐书籍: Understanding Deep Learning
-PDF: [点击下载](./files/Understanding Deep Learning.pdf)
+网盘链接: https://pan.baidu.com/s/1ngntBG67BxgFNrBE_01yoQ? 
+

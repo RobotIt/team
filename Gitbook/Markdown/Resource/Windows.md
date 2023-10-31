@@ -50,11 +50,12 @@
 
 ### 2 Windows常用软件
 
-链接：https://pan.baidu.com/s/1xbjOjbhpn-G6Z7_dVyLiIA?
+网盘链接：https://pan.baidu.com/s/1eEOM4rHxt_bYMHjQJNXrJw?
 
 
 ### 3 Windows科研软件
-链接：https://pan.baidu.com/s/1nSbS6EhvfYYHtcnOsPdRTg?
+网盘链接：https://pan.baidu.com/s/1DGIuNeHSZlWLb2cZMtS1lA?
+
 
 
 
