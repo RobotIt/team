@@ -23,7 +23,6 @@ Step 2：
 gunzip clash-linux-amd64-v1.17.0.gz
 ```
 
-
 Step 3(Optional)：
 
 使用以下命令将解压后的文件移动到 `/usr/local/bin` 目录，并重命名为 `clash`：
@@ -32,7 +31,6 @@ Step 3(Optional)：
 sudo mv clash-linux-amd64-v1.17.0 /usr/local/bin/clash
 ```
 
-
 Step 4：
 
 赋予 Clash 添加执行权限：
@@ -40,7 +38,6 @@ Step 4：
 ```bash
 sudo chmod +x /usr/local/bin/clash
 ```
-
 
 Step 5：
 
@@ -51,7 +48,6 @@ Step 5：
 ```bash
 mkdir -p ~/.config/clash
 ```
-
 
 Step 6：
 
@@ -68,7 +64,6 @@ curl 订阅地址 > ~/.config/clash/config.yaml
 ![](./images/Ubuntu/1.png)
 
 
-
 Step 7：
 
 启动clash
@@ -79,13 +74,11 @@ Step 7：
 Can't find MMDB, start download
 ```
 
-
 Step 8：
 
 配置 Ubuntu 网络代理，见下图
 
 ![](./images/Ubuntu/2.jpg)
-
 
 
 Step 9：
@@ -97,7 +90,6 @@ Step 9：
 ![](./images/Ubuntu/3.png)
 
 
-
 Step 10：
 
 关闭 clash
@@ -107,5 +99,4 @@ Step 10：
 
 ### 2 Ubuntu常用软件
 
-网盘链接：https://pan.baidu.com/s/1_yxKtlf5TeOJTOj0HtMbJQ?
-
+网盘链接：链接：https://pan.baidu.com/s/1z_NDuOqs2twZEiLzw0FRNw?
