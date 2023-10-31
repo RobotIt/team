@@ -1,5 +1,8 @@
 # 1 重点论文
 
+论文网盘链接：链接：https://pan.baidu.com/s/1oDNcWsjZCC4N-yEKwJIhxQ?
+
+
 ## 1 移动机器人运动控制
 
 ### 1.1  室外建图及导航
@@ -10,14 +13,12 @@ https://www.ri.cmu.edu/enabling-autonomous-exploration/
 
 https://www.cmu-exploration.com/
 
-PDF:
+论文:<br/>
+FAR Planner Fast, Attemptable Route Planner using Dynamic Visibility Update
 
-FAR Planner: [点击下载](./files/FAR Planner Fast, Attemptable Route Planner using Dynamic Visibility Update.pdf)
+TARE A Hierarchical Framework for Efficiently Exploring Complex 3D Environments
 
-TARE: [点击下载](./files/TARE A Hierarchical Framework for Efficiently Exploring Complex 3D Environments.pdf)
-
-Autonomous exploration: [点击下载](./files/Representation granularity enables time-efficient autonomous exploration in large, complex worlds.pdf)
-
+Representation granularity enables time-efficient autonomous exploration in large, complex worlds
 
 
 ## 2 机械臂视觉抓取
@@ -38,7 +39,7 @@ Github: https://github.com/NoneJou072/robopal
 
 Github: https://github.com/andrejorsula/drl_grasping
 
-PDF: [点击下载](./files/Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning.pdf)
+论文: Learning to Grasp on the Moon from 3D Octree Observations with Deep Reinforcement Learning
 
 
 
@@ -48,7 +49,7 @@ PDF: [点击下载](./files/Learning to Grasp on the Moon from 3D Octree Observa
 
 Github: https://github.com/nizhihao/Collaborative-Pushing-Grasping
 
-PDF: [点击下载](./files/Collaborative Pushing and Grasping of Tightly Stacked Objects via Deep Reinforcement Learning.pdf)
+论文: Collaborative Pushing and Grasping of Tightly Stacked Objects via Deep Reinforcement Learning
 
 
 
@@ -58,7 +59,7 @@ PDF: [点击下载](./files/Collaborative Pushing and Grasping of Tightly Stacke
 
 Github: https://github.com/eureka-research/Eureka
 
-PDF: [点击下载](./files/Eureka Human-Level Reward Design via Coding Large Language Models.pdf)
+论文: Eureka Human-Level Reward Design via Coding Large Language Models
 
 
 
@@ -72,7 +73,7 @@ PDF: [点击下载](./files/Eureka Human-Level Reward Design via Coding Large La
 
 Project page: https://voxposer.github.io/   (代码暂未开源)
 
-PDF: [点击下载](./files/VoxPoser Composable 3D Value Maps for Robotic Manipulation with Language Models for Robotic Manipulation with Language Models.pdf)
+论文: VoxPoser Composable 3D Value Maps for Robotic Manipulation with Language Models for Robotic Manipulation with Language Models
 
 
 
@@ -82,7 +83,7 @@ PDF: [点击下载](./files/VoxPoser Composable 3D Value Maps for Robotic Manipu
 
 Project page: https://language-to-reward.github.io/   (代码暂未开源)
 
-PDF: [点击下载](./files/Language to Rewards for Robotic Skill Synthesis.pdf)
+论文: Language to Rewards for Robotic Skill Synthesis
 
 
 
@@ -92,7 +93,7 @@ PDF: [点击下载](./files/Language to Rewards for Robotic Skill Synthesis.pdf)
 
 Github: https://github.com/kyegomez/RoboCAT
 
-PDF: [点击下载](./files/RoboCat A Self-Improving Foundation Agent for Robotic Manipulation.pdf)
+论文: RoboCat A Self-Improving Foundation Agent for Robotic Manipulation
 
 
 
@@ -102,7 +103,7 @@ PDF: [点击下载](./files/RoboCat A Self-Improving Foundation Agent for Roboti
 
 Project page: https://robopen.github.io/
 
-PDF:  [点击下载](./files/RoboAgent Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking.pdf)
+论文: RoboAgent Generalization and Efficiency in Robot Manipulation via Semantic Augmentations and Action Chunking
 
 
 
@@ -116,7 +117,7 @@ PDF:  [点击下载](./files/RoboAgent Generalization and Efficiency in Robot Ma
 
 Project page: https://pku-epic.github.io/GraspNeRF/
 
-PDF: [点击下载](./files/GraspNeRF Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF.pdf)
+论文: GraspNeRF Multiview-based 6-DoF Grasp Detection for Transparent and Specular Objects Using Generalizable NeRF
 
 
 
@@ -126,7 +127,7 @@ PDF: [点击下载](./files/GraspNeRF Multiview-based 6-DoF Grasp Detection for 
 
 Project page: https://transporternets.github.io/
 
-PDF: [点击下载](./files/Transporter Networks Rearranging the Visual World for Robotic Manipulation.pdf)
+论文: Transporter Networks Rearranging the Visual World for Robotic Manipulatio
 
 
 
@@ -136,7 +137,7 @@ PDF: [点击下载](./files/Transporter Networks Rearranging the Visual World fo
 
 Project page: https://cliport.github.io/
 
-PDF: [点击下载](./files/CLIPORT What and Where Pathways for Robotic Manipulation .pdf)
+论文: CLIPORT What and Where Pathways for Robotic Manipulation 
 
 
 
@@ -146,7 +147,7 @@ PDF: [点击下载](./files/CLIPORT What and Where Pathways for Robotic Manipula
 
 Github: https://github.com/wenbowen123/catgrasp
 
-PDF: [点击下载](./files/CaTGrasp_Learning_Category-Level_Task-Relevant_Grasping_in_Clutter_from_Simulation.pdf)
+论文: CaTGrasp_Learning_Category-Level_Task-Relevant_Grasping_in_Clutter_from_Simulation
 
 
 

@@ -33,7 +33,7 @@
 接下来我们打开一键关闭Windows Defender小工具，下载地址：
 
 链接：https://pan.baidu.com/s/1jSV-FlEJrRuXsuvPVsru_Q?pwd=8888 提取码：8888 
-备用链接：链接：https://pan.baidu.com/s/1IVeUxRae8Y7WKADbbxUwsg?pwd=6666 提取码：6666
+
 
 点击“一键关闭”后，重启电脑就可以了~
 
