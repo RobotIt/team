@@ -1,3 +1,7 @@
+# 小论文
+
+## 1 论文十问
+
 1. 论文试图解决什么问题？
 2. 这是否是一个新的问题？
 3. 这篇文章要验证一个什么科学假设？
@@ -9,11 +13,13 @@
 9. 这篇论文到底有什么贡献？
 10. 下一步呢？有什么工作可以继续深入？
 
+可借助星火科研助手：https://paper.iflytek.com/
 
+举例：
 
-举例：FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update
+论文名称：FAR Planner: Fast, Attemptable Route Planner using Dynamic Visibility Update <br/>
+PDF：[点击下载](./files/FAR%20Planner%20Fast,%20Attemptable%20Route%20Planner%20us.pdf) 
 
- [FAR Planner Fast, Attemptable Route Planner us.pdf](Files\FAR Planner Fast, Attemptable Route Planner us.pdf) 
 
 **总结**
 
