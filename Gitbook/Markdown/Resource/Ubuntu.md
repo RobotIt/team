@@ -99,4 +99,4 @@ Step 10：
 
 ### 2 Ubuntu常用软件
 
-网盘链接：链接：https://pan.baidu.com/s/1z_NDuOqs2twZEiLzw0FRNw?
+网盘链接：https://pan.baidu.com/s/17oHgAbF72m5O6tST5gWjiw 
