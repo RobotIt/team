@@ -21,7 +21,8 @@
     * [5 林涛](Markdown/Team/LinT.md)
 * [4 资源](Markdown/Resource/README.md)
     * [1 方法论](Markdown/Resource/Methodology.md)
-    * [2 课外书籍](Markdown/Resource/Books.md)
-    * [3 Windows](Markdown/Resource/Windows.md)
-    * [4 Ubuntu](Markdown/Resource/Ubuntu.md)
+    * [2 教程资源](Markdown/Resource/Tutorial.md)
+    * [3 课外书籍](Markdown/Resource/Books.md)
+    * [4 Windows](Markdown/Resource/Windows.md)
+    * [5 Ubuntu](Markdown/Resource/Ubuntu.md)
 
