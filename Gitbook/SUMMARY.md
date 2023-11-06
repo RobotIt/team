@@ -19,7 +19,7 @@
     * [3 何俊杰](Markdown/Team/HeJJ.md)
     * [4 刘晨赫](Markdown/Team/LiuCH.md)
     * [5 林涛](Markdown/Team/LinT.md)
-* [资源](Markdown/Resource/README.md)
+* [4 资源](Markdown/Resource/README.md)
     * [1 方法论](Markdown/Resource/Methodology.md)
     * [2 课外书籍](Markdown/Resource/Books.md)
     * [3 Windows](Markdown/Resource/Windows.md)
