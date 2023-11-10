@@ -122,7 +122,7 @@ How to interview 如何面试
 How to negotiate 如何谈判
 
 
-#### 8 Literature and Economics 文学和经济🥇
+#### 8 Literature and Economics 文学和经济🌏
 
 Humanities and Social Sciences 具备人文社科基本素养
 

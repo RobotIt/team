@@ -50,3 +50,10 @@ F1：STM32F1参考文档.zip
 F4：《STM32F407参考手册》
 
 
+#### 2.7 算法
+
+Hello 算法：《hello-algo-cpp》、《hello-algo-python》
+
+
+
+
