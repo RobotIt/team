@@ -1,29 +1,12 @@
 # 1 重点论文
 
-论文网盘链接：链接：https://pan.baidu.com/s/1oDNcWsjZCC4N-yEKwJIhxQ?
+网盘链接：https://pan.baidu.com/s/1eV-y5bpQIysiurXBD6dylA 
 
 
-## 1 移动机器人运动控制
 
-### 1.1  室外建图及导航
+## 1 机械臂视觉抓取
 
-Project page: 
-
-https://www.ri.cmu.edu/enabling-autonomous-exploration/
-
-https://www.cmu-exploration.com/
-
-论文:<br/>
-FAR Planner Fast, Attemptable Route Planner using Dynamic Visibility Update
-
-TARE A Hierarchical Framework for Efficiently Exploring Complex 3D Environments
-
-Representation granularity enables time-efficient autonomous exploration in large, complex worlds
-
-
-## 2 机械臂视觉抓取
-
-### 2.1  强化学习+机械臂
+### 1.1  强化学习+机械臂
 
 #### 1 robopal
 
@@ -33,7 +16,7 @@ Github: https://github.com/NoneJou072/robopal
 
 
 
-#### 2   [drl_grasping](https://github.com/AndrejOrsula/drl_grasping) ⭐ 2022 IROS
+#### 2 [drl_grasping](https://github.com/AndrejOrsula/drl_grasping) ⭐ 2022 IROS
 
 通过深度强化学习来获得一种稳健的策略，使机器人能够从八叉树形式的紧凑三维观测中抓取各种物体
 
@@ -63,9 +46,7 @@ Github: https://github.com/eureka-research/Eureka
 
 
 
-
-
-### 2.2 大语言模型+机械臂
+### 1.2 大语言模型+机械臂
 
 #### 1 VoxPoser 2023 ArXiv
 
@@ -107,9 +88,7 @@ Project page: https://robopen.github.io/
 
 
 
-
-
-### 2.3 其他视觉抓取
+### 1.3 其他视觉抓取
 
 #### 1 GraspNeRF  2023 ICRA
 
@@ -151,7 +130,7 @@ Github: https://github.com/wenbowen123/catgrasp
 
 
 
-### 2.4 平面抓取
+### 1.4 平面抓取
 
 #### 1 Yolov8_ros
 
@@ -160,14 +139,6 @@ GIthub: https://github.com/qq44642754a/Yolov8_ros
 
 
 
-
-## 3 ROS+大语言模型
-
-#### 3.1 Langchain-Robotic
-
-基于 ROS2 与 langchain 的仿真框架示例（暂未包含机器人仿真环境，需要自行搭建），用于使用大语言模型对机器人进行决策与规划
-
-Github: https://github.com/NoneJou072/robochain
 
 
 

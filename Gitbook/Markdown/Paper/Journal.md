@@ -1,6 +1,13 @@
 # 小论文
 
-## 1 论文十问
+网盘链接：https://pan.baidu.com/s/1VZg30GkbOVSz7XIWP9Av2A 
+
+## 1 论文阅读
+
+1. 如何读论文-李沐：[点击打开](https://www.bilibili.com/video/BV1H44y1t75x/?spm_id_from=333.337.search-card.all.click&vd_source=7df640296c15e75b5fbd2da8cc72a434)
+
+
+## 2 论文整理
 
 1. 论文试图解决什么问题？
 2. 这是否是一个新的问题？
@@ -13,7 +20,7 @@
 9. 这篇论文到底有什么贡献？
 10. 下一步呢？有什么工作可以继续深入？
 
-可借助星火科研助手：https://paper.iflytek.com/
+> 星火科研助手：https://paper.iflytek.com/
 
 举例：
 
