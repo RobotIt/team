@@ -100,9 +100,7 @@ Understanding of data ownership/sharing issues 理解数据所有权和数据分
 
 Demonstrating responsible authorship and publication practices 对自己发表的文章负责
 
-Demonstrating responsible conduct in human research 对"人"的研究负责
-
-Demonstrating responsible conduct in animal research 对"动物"的研究负责
+Demonstrating responsible conduct in your research 对你的研究负责
 
 Can identify and address research misconduct 可以发现并指出学术不端
 
