@@ -30,9 +30,9 @@
 
 将右侧的“实时保护”、“云提供保护”、“自动提交样本”、“篡改保护”四项全部手动关掉，如上图所示，
 
-接下来我们打开一键关闭Windows Defender小工具，下载地址：
+接下来我们打开一键关闭Windows Defender小工具:
 
-链接：https://pan.baidu.com/s/1jSV-FlEJrRuXsuvPVsru_Q?pwd=8888 提取码：8888 
+网盘链接：https://pan.baidu.com/s/1O_9BifJoYm09UKVv_jqseQ 
 
 
 点击“一键关闭”后，重启电脑就可以了~

@@ -35,7 +35,11 @@ https://paper.iflytek.com/
 讯飞星火：https://xinghuo.xfyun.cn/
 
 
+计划安排 Magic Todo：https://goblin.tools/
 
+陪伴AI PI，可以用来练习英语 https://pi.ai/talk
+
+Notion： https://www.notion.so/Getting-Started-bf360f62747f4cdc8446957f485df755
 
 
 5 研发管理工具
@@ -86,7 +90,7 @@ Github地址： https://github.com/RobotIt/Python-100-Days
 
 ⑥ 国家企业信用信息公司系统： https://www.gsxt.gov.cn/index
 
-
+⑦ 华文慕课： http://www.chinesemooc.org/
 
 9 AI工具
 

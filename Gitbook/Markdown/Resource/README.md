@@ -3,24 +3,37 @@
 
 ### 1 文献查阅
 
-Research Rabbit：https://www.researchrabbitapp.com/home   ->  文献检索及可视化工具
+Research Rabbit：https://www.researchrabbitapp.com/home 
 
-Paperswithcode: https://paperswithcode.com/ -> 人工智能方向最新成果
+科研通：https://www.ablesci.com/
 
+> 上面两个网站使用方法：https://pan.baidu.com/s/1vhxlfI-5eGxmojifEMoYhA
 
-### 2 集成资源
-
-柒夜导航： https://nav.qinight.com/  ->  黑科技网站资源集
-
-AIGC导航： https://www.aigc.cn/  ->  生成式AI导航平台
+Paperswithcode: https://paperswithcode.com/
 
 
-### 3 PPT
+### 2 代码解读
 
-PPT模板：https://pan.baidu.com/s/1f5pikIlzgEBtPvIp6xbriA 
+通义灵码: https://tongyi.aliyun.com/lingma/
+
+深度学习论文+代码对照：https://nn.labml.ai/
 
 
-### 4 国内镜像源
+### 3 集成资源
+
+柒夜导航： https://nav.qinight.com/
+
+AIGC导航： https://www.aigc.cn/
+
+图欧学习： https://tuostudy.upnb.top/
+
+
+### 4 PPT
+
+PPT模板：https://pan.baidu.com/s/1mj6wemDTYzmeHk09JH20FA 
+
+
+### 5 国内镜像源
 
 清华镜像源: https://mirrors.tuna.tsinghua.edu.cn/?ref=zhuyeya.com
 
